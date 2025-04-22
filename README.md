@@ -21,7 +21,7 @@ Requisitos:
 5. O usuário deve ser capaz de realizar uma busca dentro de todas as playlists que ele criou usando um critério baseado nos parâmetros de análise do áudio das músicas (dançável, acústica, energia, etc.). Isso deverá ser feito graficamente definindo-se um string de busca (p.ex., "samba") e um intervalo aceitável para cada um dos parâmetros, por exemplo, dançavel entre 0,8 e 1,0; acústica entre 0,0 e 0,5; energia entre 0,7 e 0,8. Assim, o usuário poderá ser capaz de buscar, por exemplo, um samba dançável, pouco acústico e com muita energia.
 
 ## Equipe
-A
+Ana Cecília Paiva Aguiar - 15438591
 
 David Satoshi Aguina - 12552408
 
